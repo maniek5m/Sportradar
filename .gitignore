@@ -1,0 +1,7 @@
+/var/
+/vendor/
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+/.idea
+/docker-compose-xdebug.yml
